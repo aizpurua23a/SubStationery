@@ -223,21 +223,12 @@ img { max-width: 100%; }
 .services-box .services-box-icon {
 	width: 80px;
 	height: 80px;
-	margin: 0 auto;
-    font-size: 40px;
-    color: #fff;
+	margin: 0 0 0 auto;
+    font-size: 50px;
+    color: #f35f55;
     line-height: 80px;
     text-align: center;
     border-radius: 28px;
-
-    background: #bae8e8; /* Old browsers */
-	background: -moz-linear-gradient(top,  #bae8e8 0%, #272343 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#bae8e8), color-stop(100%,#272343)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #bae8e8 0%,#272343 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #bae8e8 0%,#272343 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #bae8e8 0%,#272343 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  #bae8e8 0%,#272343 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bae8e8', endColorstr='#272343',GradientType=0 ); /* IE6-9 */
 }
 
 .services-box h3 {
@@ -284,26 +275,17 @@ img { max-width: 100%; }
 .more-services-box .more-services-box-icon {
 	width: 60px;
 	height: 60px;
-	margin: 0 auto;
-    font-size: 28px;
-    color: #fff;
+	margin: 0 0 0 auto;
+    font-size: 50px;
+    color: #f35f55;
     line-height: 60px;
     text-align: center;
     border-radius: 22px;
-
-    background: #bae8e8; /* Old browsers */
-	background: -moz-linear-gradient(top,  #bae8e8 0%, #272343 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#bae8e8), color-stop(100%,#272343)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #bae8e8 0%,#272343 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #bae8e8 0%,#272343 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #bae8e8 0%,#272343 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  #bae8e8 0%,#272343 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bae8e8', endColorstr='#272343',GradientType=0 ); /* IE6-9 */
 }
 
 .more-services-box h3 {
 	margin-top: 0;
-	padding: 0 0 10px 0;
+	padding: 0 0 10	px 0;
 }
 
 
@@ -435,65 +417,6 @@ img { max-width: 100%; }
 
 	border: 0;
 }
-
-
-/***** Blog *****/
-
-.blog-box {
-	margin-top: 30px;
-	text-align: left;
-  display: none;
-}
-
-.blog-box-image {
-	margin-top: 8px;
-	overflow: hidden;
-	border-radius: 4px;
-}
-
-.blog-box-image img {
-	-o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s;
-}
-
-.blog-box-image:hover img {
-	-o-transform: scale(1.25); -moz-transform: scale(1.25); -webkit-transform: scale(1.25); -ms-transform: scale(1.25); transform: scale(1.25);
-}
-
-.blog-box h3 {
-	margin-top: 0;
-}
-.blog-box h3 a {
-  color: #555;
-}
-.blog-box h3 a:hover, .blog-box h3 a:focus {
-  color: #9b59b6;
-}
-
-.blog-box h3 i {
-	padding-left: 10px;
-	color: #ccc;
-	-o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
-}
-.blog-box h3:hover i {
-  padding-left: 15px;
-}
-
-.blog-box-date {
-	padding-bottom: 10px;
-	font-size: 14px;
-	color: #aaa;
-	text-transform: uppercase;
-}
-
-.blog-box-date i {
-	padding-right: 5px;
-	color: #ddd;
-}
-
-.blog-container .section-bottom-button {
-	padding-top: 40px;
-}
-
 /***** Contact Form *****/
 
 .contact-form{
@@ -524,7 +447,7 @@ img { max-width: 100%; }
     margin-bottom: 8%;
     margin-top: -10%;
     text-align: center;
-    color: #0062cc;
+    color: #394648;
 }
 .contact-form .btnContact {
     width: 50%;
